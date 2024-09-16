@@ -11,7 +11,8 @@
     - [Method](./Syntax/Method.md)
     - [Query](./Syntax/Query.md)
 - LINQ Funktionen
+    - [Datenabfrage](./Funktionen/Datenabfrage.md)
     - [Filter](./Funktionen/Filter.md)
     - [Sortierung](./Funktionen/Sortierung.md)
     - [Gruppierung](./Funktionen/Gruppierung.md)
-    - [Gruppierung](./Funktionen/Mathematic.md.md)
+    - [Mathematic](./Funktionen/Mathematic.md)

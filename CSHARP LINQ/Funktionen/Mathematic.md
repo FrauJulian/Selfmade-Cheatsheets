@@ -3,12 +3,12 @@
 ### Verwendung:
 
 **METHODS**
-- `Max`
-- `Min`
-- `Average`
-- `Sum`
-- `Count`
-- `Aggregate((EXPRESSION, EXPRESSION) => EXPRESSION OPERATION EXPRESSION)`
+- `Max` - Maximaler Wert
+- `Min` - Minimaler Wert
+- `Average` - Durchschnittlicher Wert
+- `Sum` - Summe aller Zahlen
+- `Count` - Anzahl der Zahlen
+- `Aggregate((EXPRESSION, EXPRESSION) => EXPRESSION OPERATION EXPRESSION)` - spezielle Operationen ausführen
 
 &nbsp;
 
