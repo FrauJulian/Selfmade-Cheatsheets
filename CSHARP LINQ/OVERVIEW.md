@@ -14,3 +14,4 @@
     - [Filter](./Funktionen/Filter.md)
     - [Sortierung](./Funktionen/Sortierung.md)
     - [Gruppierung](./Funktionen/Gruppierung.md)
+    - [Gruppierung](./Funktionen/Mathematic.md.md)
