@@ -45,3 +45,4 @@
 | [`out`](./REF%20&%20OUT.md)         | Ausgabewert-Parameter                       |
 | `List`        | Dynamische Sammlung von Objekten            |
 | `namespace`   | Namensraum für Typen und Klassen            |
+| `interface`   | Definiert eine Schnittstelle                |
